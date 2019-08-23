@@ -1,0 +1,8 @@
+public class Practice {
+    public static void main(String args[])
+{
+    System.out.println("Knowledge is power");
+    System.out.print("Knowledge\nis\npower");
+    System.out.println("\n|---------------------|\n| Knowledge is power  |\n|---------------------|");
+}
+}
