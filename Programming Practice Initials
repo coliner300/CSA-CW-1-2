@@ -1,0 +1,34 @@
+public class Practice {
+    public static void main(String args[])
+{
+    System.out.println("  CCCCCCCCCC");
+    System.out.println(" CCCCCCCCCC");
+    System.out.println("CCCC");
+    System.out.println("CCC");
+    System.out.println("CC");
+    System.out.println("CCC");
+    System.out.println("CCCC");
+    System.out.println(" CCCCCCCCCC");
+    System.out.println("  CCCCCCCCCC");
+    System.out.println("");
+    System.out.println("RRRRRRRRR");
+    System.out.println("RRRRRRRRRR");
+    System.out.println("RR    RRR");
+    System.out.println("RR     RRR");
+    System.out.println("RRRRRRRRR");
+    System.out.println("RRRRRRRR");
+    System.out.println("RR    RRR");
+    System.out.println("RR     RRR");
+    System.out.println("RR      RRR");
+    System.out.println("");
+    System.out.println("OOOOOOOOOO");
+    System.out.println("OO      OO");
+    System.out.println("OO      OO");
+    System.out.println("OO      OO");
+    System.out.println("OO      OO");
+    System.out.println("OO      OO");
+    System.out.println("OO      OO");
+    System.out.println("OOOOOOOOOO");
+
+}
+}
