@@ -1,0 +1,21 @@
+import java.util.*;
+
+public class MyClass {
+    public static void main(String args[]) {
+      ArrayList<String> ing = new ArrayList<String>();
+      
+      ing.add("Flour");
+      ing.add("Sugar");
+      ing.add("Cocoa");
+      ing.add("Oil");
+      ing.add("Butter");
+      ing.add("Eggs");
+      ing.add("Baking Soda");
+      System.out.println("To make a chocolate cake, use the following " + ing.size() + " ingredients:");
+      ListIterator iterator = ing.listIterator();
+      while(iterator.hasNext())
+      {
+          System.out.println(iterator.next());
+      }
+    }
+}// done by the main man himself Christopher Oliner
